@@ -1,6 +1,6 @@
 # assignment_flutter
 
-Flutter App which display Bed vacancy details under covid health centres Json data on UI 
+Flutter App which display Bed vacancy details under covid health centres Json data on UI
 
 ## Getting Started
 
